@@ -1,0 +1,16 @@
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\Reciever.exe
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.AssemblyInfoInputs.cache
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.AssemblyInfo.cs
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\Reciever.deps.json
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\Reciever.runtimeconfig.json
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\Reciever.runtimeconfig.dev.json
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\Reciever.dll
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\Reciever.pdb
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.csprojAssemblyReference.cache
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.csproj.CoreCompileInputs.cache
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.csproj.CopyComplete
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.dll
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.pdb
+C:\Users\Wally\Documents\Projetos\RabbitMQ\Reciever\Reciever\obj\Debug\netcoreapp3.1\Reciever.genruntimeconfig.cache
