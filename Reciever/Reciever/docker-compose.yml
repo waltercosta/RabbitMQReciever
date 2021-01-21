@@ -1,0 +1,23 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports: 
+      - "8081:80"
+    depends_on:
+      - rabbitmq
+    environment:
+      ASPNETCORE_ENVIRONMENT: production
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: rabbitmqReciever
+    volumes:
+      - ./.docker/rabbitmqReciever/etc/:/etc/rabbitmq/
+      - ./.docker/rabbitmqReciever/data/:/var/lib/rabbitmq/
+      - ./.docker/rabbitmqReciever/logs/:/var/log/rabbitmq/
+    ports:
+      - 5672:5672
+      - 15672:15672
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
